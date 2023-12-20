@@ -1,7 +1,7 @@
 ### Olá, Sou Bruno Barbosa 
 
 
-- 🔭 Trabalho com Desenvolvimento Web 
+- 🔭 Sou Desenvolvedor Web Fullstack 
 - 💻 Engenheiro da Computação 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
